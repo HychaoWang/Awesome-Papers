@@ -64,7 +64,7 @@ A curated collection of research papers on video understanding, diffusion models
 
 | Title | Venue | Authors | Link |
 |-------|-------|---------|------|
-| MaskVD: Region Masking for Efficient Video Object Detection | arXiv 2024 | Sreetama Sarkar, Gourav Datta, Souvik Kundu, Kai Zheng, Chirayata Bhattacharyya, Peter A. Beerel | [arXiv](https://arxiv.org/abs/2407.12067) |
+| MaskVD: Region Masking for Efficient Video Object Detection | WACV 2025 | Sreetama Sarkar, Gourav Datta, Souvik Kundu, Kai Zheng, Chirayata Bhattacharyya, Peter A. Beerel | [arXiv](https://arxiv.org/abs/2407.12067) |
 | Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers | ICCV 2023 | Matthew Dutson, Yin Li, Mohit Gupta | [arXiv](https://arxiv.org/abs/2308.13494) |
 | SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer | CVPR 2023 | Xuanyao Chen, Zhijian Liu, Haotian Tang, Li Yi, Hang Zhao, Song Han | [arXiv](https://arxiv.org/abs/2303.17605) |
 | ByteTrack: Multi-Object Tracking by Associating Every Detection Box | ECCV 2022 | Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Fucheng Weng, Zehuan Yuan, Ping Luo, Wenyu Liu, Xinggang Wang | [arXiv](https://arxiv.org/abs/2110.06864) |
