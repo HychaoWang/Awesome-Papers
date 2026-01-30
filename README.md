@@ -37,7 +37,7 @@ A curated collection of research papers on video understanding, diffusion models
 | Title | Venue | Authors | Link |
 |-------|-------|---------|------|
 | Diffusion Models: A Comprehensive Survey of Methods and Applications | ACM Computing Surveys 2023 | Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang | [arXiv](https://arxiv.org/abs/2209.00796) |
-| On the Design Fundamentals of Diffusion Models: A Survey | arXiv 2024 | Ziyi Chang, George A. Koulieris, Hubert P. H. Shum | [arXiv](https://arxiv.org/abs/2306.04542) |
+| On the Design Fundamentals of Diffusion Models: A Survey | Pattern Recognition 2026 | Ziyi Chang, George A. Koulieris, Hubert P. H. Shum | [arXiv](https://arxiv.org/abs/2306.04542) |
 
 ### 🔬 Recent Advances (最新进展)
 
